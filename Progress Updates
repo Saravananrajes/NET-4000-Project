@@ -1,4 +1,12 @@
-Week 1 - chose our team and we chose the project topic: Reinforcement Learning –Based Network Slicing in Emulated 5G Core
-Week 2 - Began updating the power point slides with our project objectives and project description. We brainstormed ideas (free5gc, open5gs), tools (Perf, Grafana, Prometheus and UE emulation) and methodologies with how we will implement this project and divided the tasks equally among us. 
-Week 3 - Started to deploy k8s with free5gc on vm ubuntu distribution however we faced issues as not all team members can get their environment setup working properly due to containers not coming up so we decided to switch to docker with free5gc implementation.
+Week 1 - Chose our team members:
+-Carol
+-Saravanan
+-Sufyan
+-Taleiven
+We chose the project topic: Reinforcement Learning –Based Network Slicing in Emulated 5G Core
+
+Week 2 - Began updating the power point slides with our project objectives and project description. 
+We brainstormed ideas (free5gc, open5gs), tools (Perf, Grafana, Prometheus and UE emulation) and methodologies with how we will implement this project and divided the tasks equally among us. 
+
+Week 3 - Started to deploy k8s with free5gc on Vm Ubuntu distribution however we faced issues as not all team members can get their environment setup working properly due to containers not coming up so we decided to switch to docker with free5gc implementation.
 Week 4 - 
